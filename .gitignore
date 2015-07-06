@@ -1,0 +1,16 @@
+*.bak
+*.suo
+*.zip
+.idea
+bin
+obj
+coverage
+fonts
+node_modules
+packages
+reports
+build/templates.js
+build/tests/
+npm-debug.log
+bower_components
+.sonar
